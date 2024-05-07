@@ -16,7 +16,7 @@
         android:theme="@style/Theme.HOTD"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.main.MainActivity"
             android:exported="true"
             android:label="@string/app_name">
             <intent-filter>
