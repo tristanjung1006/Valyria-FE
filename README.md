@@ -10,3 +10,5 @@ it will complete sooner or later
 <a href="https://www.reddit.com/r/HouseOfTheDragon/comments/1dhe72l/making_of_app_about_house_of_dragon_family_tree/">
   <img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
+
+- reference: https://www.youtube.com/watch?v=sCbwuflHPhQ
