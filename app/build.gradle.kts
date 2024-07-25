@@ -53,7 +53,7 @@ dependencies {
     androidTestImplementation("androidx.test.espresso:espresso-core:3.6.1")
 
     // jsoup - web crawling library
-    implementation("org.jsoup:jsoup:1.17.2")
+    implementation("org.jsoup:jsoup:1.18.1")
 
     implementation("com.github.skydoves:transformationlayout:1.1.4")
 }
