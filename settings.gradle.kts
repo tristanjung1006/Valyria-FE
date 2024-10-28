@@ -11,6 +11,7 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
     }
+    defaultLibrariesExtensionName = "projectLibs"
 }
 
 rootProject.name = "HOTD"
