@@ -56,7 +56,7 @@ dependencies {
 
     implementation("org.jsoup:jsoup:1.17.2")
 
-    implementation("com.github.skydoves:transformationlayout:1.1.3")
+    implementation("com.github.skydoves:transformationlayout:1.1.5")
 
     implementation ("com.google.dagger:hilt-android:2.50")
     implementation ("androidx.hilt:hilt-navigation-compose:1.2.0")
