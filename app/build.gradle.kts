@@ -58,6 +58,6 @@ dependencies {
 
     implementation("com.github.skydoves:transformationlayout:1.1.5")
 
-    implementation ("com.google.dagger:hilt-android:2.50")
+    implementation ("com.google.dagger:hilt-android:2.56.1")
     implementation ("androidx.hilt:hilt-navigation-compose:1.2.0")
 }
